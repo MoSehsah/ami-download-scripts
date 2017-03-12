@@ -1,6 +1,7 @@
-# Project Title
+# AMI to VM Conversion & Download Scripts
 
-One Paragraph of project description goes here
+This project is to convert AWS AMI to VMware VM and Save it to S3 and then download.
+
 
 ### Installing
 
